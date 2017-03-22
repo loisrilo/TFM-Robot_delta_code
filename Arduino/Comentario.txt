@@ -1,0 +1,1 @@
+El programa principal para Arduino presentado en este TFM se encuentra en la carpeta pulsos_arduino.
